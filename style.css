@@ -765,7 +765,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(92, 85, 68, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1086,10 +1086,12 @@ h4 {
 
 .citation-text {
     font-size: 16px;
+    color: black;
 }
 
 .citation-auteur {
     font-size: italic;
+    color: black;
 }
 
 @media (max-width: 400px) {
