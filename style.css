@@ -1104,3 +1104,38 @@ h4 {
         text-align: center;
     }
 }
+
+
+.design {
+
+    font-size: 10px;
+    margin: 20px auto 0 auto;
+}
+
+.partner-title {
+    font-size: 20px;
+    color: #000 !important;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.partner-a:hover {
+    text-decoration: underline;
+    color: #000000;
+}
+
+.partner-a {
+    padding: 0 8px;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.partner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+}
