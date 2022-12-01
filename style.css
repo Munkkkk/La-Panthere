@@ -689,7 +689,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -787,7 +787,7 @@ h4 {
 }
 
 .tc-white {
-    color: #eeeeee !important;
+    color: #ffffff !important;
 }
 
 .tc-black {
@@ -1078,6 +1078,18 @@ h4 {
         width: 180px;
         height: 320px;
     }
+}
+
+.text-agence {
+    font-size: large;
+}
+
+.citation-text {
+    font-size: 16px;
+}
+
+.citation-auteur {
+    font-size: italic;
 }
 
 @media (max-width: 400px) {
